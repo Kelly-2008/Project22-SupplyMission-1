@@ -1,2 +1,1 @@
-# Project22-SupplyMission-1
-Press the down arrow key to drop the package...
+# SupplyMission
